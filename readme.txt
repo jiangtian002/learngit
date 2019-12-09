@@ -8,3 +8,5 @@ git niubi.
 it`s good.
 
 the first -- the second.
+
+Creating a new branch is quick.
